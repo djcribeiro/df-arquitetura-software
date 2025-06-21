@@ -136,7 +136,6 @@ pytest
 
 ## 📋 Endpoints da API
 
-A documentação interativa completa da API está disponível via **[Swagger/OpenAPI](link-para-o-seu-swagger-aqui.yaml)**.
 
 ### Autenticação
 
