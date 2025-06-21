@@ -1,0 +1,37 @@
+# --- Ambientes Virtuais ---
+# Ignora a pasta do ambiente virtual para não enviar pacotes ao repositório
+venv/
+.venv/
+env/
+.env/
+
+# --- Arquivos de Cache e Compilados do Python ---
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# --- Arquivos de Banco de Dados ---
+# Se estiver usando um banco de dados local como SQLite
+*.sqlite3
+*.db
+
+# --- Arquivos de Sistema Operacional ---
+# macOS
+.DS_Store
+# Windows
+Thumbs.db
+
+# --- Arquivos de IDE e Editor ---
+# Configurações específicas do editor de código
+.idea/
+.vscode/
+
+# --- Arquivo de Variáveis de Ambiente ---
+# NUNCA envie seus segredos para o repositório!
+.env
+
+# --- Relatórios de Teste e Cobertura ---
+htmlcov/
+.pytest_cache/
+.coverage
