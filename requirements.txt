@@ -1,0 +1,11 @@
+# Framework principal da web
+Flask
+
+# Para carregar variáveis de ambiente do arquivo .env
+python-dotenv
+
+# Para gerar e validar JSON Web Tokens (JWT) para segurança
+PyJWT
+
+# Framework de testes
+pytest
